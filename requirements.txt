@@ -1,0 +1,16 @@
+# 问卷统计与建模
+pandas
+numpy
+scipy
+pyreadstat
+factor_analyzer
+scikit-learn
+
+# 文本挖掘
+jieba
+wordcloud
+networkx
+
+# 可视化
+matplotlib
+seaborn

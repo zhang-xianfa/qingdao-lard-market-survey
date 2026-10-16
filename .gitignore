@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+.venv/
+venv/
+env/
+
+# Office / SPSS 临时文件
+~$*
+*.tmp
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+.DS_Store
